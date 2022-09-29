@@ -1,0 +1,100 @@
+@media (max-width: 992px){
+    .hero-info {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 992px;
+    }
+    .hero-info h1 {
+        text-align: center;
+        font-size: 14px;
+        font-weight: 800;
+    }
+    .hero-info p {
+        font-size: 12px;
+        font-weight: 650;
+    }
+    .btn {
+        margin: 5px;
+        padding: 5px;
+    }
+    .btn a{
+        font-size: 9px;
+        font-weight: 500;
+    }
+    header {
+        width: 100%;
+        max-width: 992px;
+        display: flex;
+    }
+    .navbar-list a{
+        font-size: 13px;
+    }
+    .cart {
+        width: 4%;
+    }
+    .info {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 992px;
+    }
+    .info h3 {
+        justify-content: center;
+        text-align: center;
+        font-size: 14px;
+    }
+    .info p {
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .imagenes {
+        max-width: 992x;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .imagenes h2{
+        font-size: 14px;
+    }
+    .pollito,
+    .bambi,
+    .corazon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 8%;
+    }
+
+    .botones {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        max-width: 992px;
+    }
+    .botones button {
+        font-size: 10px;
+    }
+    .venta {
+        border-radius: 15px;
+        padding: 5px;
+        text-align: center;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 992px;
+    }
+    footer h3 {
+        font-size: 14px;
+    }
+    footer p{
+        font-size: 12px;
+    }
+}
