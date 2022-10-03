@@ -97,4 +97,58 @@
     footer p{
         font-size: 12px;
     }
+    .beni{
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .cards{
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 992px;
+        
+    }
+    .cards img{
+        width: 15%;
+    }
+    .cards h3{
+        font-size: 10px;
+        font-weight: 900;
+    }
+    .cards p {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .data p {
+        font-size: 9px;
+        font-weight: 500;
+    }
+    .nubee p {
+        font-size: 9px;
+        font-weight: 500;
+    }
+    .bit p{
+        font-size: 9px;
+        font-weight: 500;
+    }
+    .contactos {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 992px;
+    }
+    .contactos img {
+        width: 10%;
+    }
+    .contactos h2 {
+        font-size: 12px;
+    }
+    .contactos p {
+       font-size: 10px;
+    }
+    .contactos ol {
+        font-size: 10px;
+        margin-top: 15px;
+    }
 }
